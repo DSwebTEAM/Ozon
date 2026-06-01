@@ -9,14 +9,6 @@
   />
 </p>
 
-<p align="center">
-  An open source security protocol for VPS servers and static sites.<br/>
-  Built by DSwebTEAM · MIT License
-</p>
-<p align="center">
-  An open source security protocol for VPS servers and static sites.<br/>
-  Built by DSwebTEAM · MIT License
-</p>
 
 <p align="center">
   An open source security protocol for VPS servers and static sites.<br/>
