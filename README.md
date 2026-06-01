@@ -11,8 +11,7 @@
 
 
 <p align="center">
-  An open source security protocol for VPS servers and static sites.<br/>
-  Built by <a href="https://github.com/DSwebTEAM">DSwebTEAM</a> · MIT License
+  An open source security protocol for VPS servers and static sites.
 </p>
 
 ---
